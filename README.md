@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Vahid Hasani
 - 👀 I’m interested in Java
 - 🌱 I’m currently learning TDD, DDD, Microservice
-- 📫 How to reach me? DM on Telegram @vhasany
+- 📫 How to reach me? https://www.linkedin.com/in/vahid-hasani-15aa96116
  <!-- - 💞️ I’m looking to collaborate on ... -->
 
 <!---
